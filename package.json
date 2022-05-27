@@ -1,0 +1,10 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "description": "pizza api service",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "mohamed sakeen"
+}
